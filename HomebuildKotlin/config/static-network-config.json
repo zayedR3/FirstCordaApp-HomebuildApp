@@ -1,0 +1,23 @@
+[
+  {
+    "x500Name" : "CN=customer, OU=Test Dept, O=R3, L=AbuDhabi, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+  {
+    "x500Name" : "CN=consultantOld, OU=Test Dept, O=R3, L=AbuDhabi, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+  {
+    "x500Name" : "CN=municipality, OU=Test Dept, O=R3, L=AbuDhabi, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+  {
+    "x500Name" : "CN=consultantNew, OU=Test Dept, O=R3, L=AbuDhabi, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+  {
+    "x500Name" : "CN=NotaryRep1, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi" : "NotaryServer",
+    "serviceX500Name": "CN=NotaryService, OU=Test Dept, O=R3, L=London, C=GB"
+  }
+]
